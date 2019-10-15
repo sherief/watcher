@@ -1,0 +1,1 @@
+Watcher is a tool to watch a file or directory for changes and invoke a shell command when a change occurs. From a command line, running `watch foo.txt "notepad.exe foo.txt"` will execute `notepad.exe foo.txt` whenever `foo.txt` is changed.
